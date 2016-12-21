@@ -1,3 +1,3 @@
 site :opscode
 
-cookbook 'mongodb'
+cookbook 'mongodb', '= 0.15.2'
